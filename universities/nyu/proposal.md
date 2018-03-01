@@ -53,6 +53,13 @@ There are a number of needs to be met in order to make this a reality.
     starting with a 'soft launch' at the Brooklyn campus only. The Brooklyn campus is roughly the size of
     RPI, and this soft launch will allow us to better find and fix problems and get feedback from students
     before we launch YACS for the entire university.
+
+4. Other Work
+
+    In addition to any NYU-specific tasks, there is plenty of general work to be done on the project.
+    The best list of ready-to-go issues that can be worked on is https://github.com/orgs/YACS-RCOS/projects/3.
+    Note that in order to see this board, you must be a member of the organization, so send me your Github
+    name or comment here to be added.
     
 ## Conclusion
 
